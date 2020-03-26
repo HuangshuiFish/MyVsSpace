@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "MyVsCode",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"xstring": "cpp"
+		}
+	}
+}
